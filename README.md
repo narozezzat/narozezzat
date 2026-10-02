@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" width="1200" alt="Naroz Ezzat — Front-end developer. Animated code window with floating React, JavaScript and Next.js icons." />
+  <img src="./assets/profile-header-3d.svg" width="1200" alt="Naroz Ezzat — Front-end developer. Animated code window with floating React, JavaScript and Next.js icons." />
 </p>
 
 <p align="center">
