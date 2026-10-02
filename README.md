@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://naroz-ezzat.vercel.app/"><img src="./assets/portfolio.svg" width="180" alt="Explore my portfolio" /></a>
+  <a href="https://my-portfolio-lime-2.vercel.app/en"><img src="./assets/portfolio.svg" width="180" alt="Explore my portfolio" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/naroz-ezzat-095370217/"><img src="./assets/linkedin.svg" width="180" alt="Connect on LinkedIn" /></a>
   &nbsp;
@@ -28,7 +28,7 @@ to build for the web.
 
 ## 🚀 Explore my work
 
-Visit **[my portfolio](https://naroz-ezzat.vercel.app/)** to see the projects I've
+Visit **[my portfolio](https://my-portfolio-lime-2.vercel.app/en)** to see the projects I've
 worked on, or explore **[my repositories](https://github.com/narozezzat?tab=repositories)**
 to take a closer look at the code.
 
