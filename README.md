@@ -1,43 +1,51 @@
-<h3 align="center">
- 👋 Welcome to Naroz Ezzat's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+  <img src="./assets/profile-header.svg" width="1200" alt="Naroz Ezzat — Front-end developer. Curiosity, code, and coffee." />
+</p>
 
-- 🏢 I'm a Front-end Developer at Sakneen company.
-- 👨‍💻 As an ITI student, I constantly learn and explore new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, NextJS, NodeJS, or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio https://naroz-ezzat.vercel.app/ to see some of the projects I've worked on.
+<p align="center">
+  <strong>Building for the web. Always learning.</strong><br />
+  JavaScript, React, and Next.js are at the heart of my work.
+</p>
 
+<p align="center">
+  <a href="https://naroz-ezzat.vercel.app/"><strong>Explore my portfolio</strong></a>
+  &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/naroz-ezzat-095370217/"><strong>Connect on LinkedIn</strong></a>
+  &nbsp; / &nbsp;
+  <a href="https://github.com/narozezzat?tab=repositories"><strong>Browse my code</strong></a>
+</p>
 
-### Connect with Me :
+## A little about me
 
-<a href="https://linkedin.com/in/naroz-ezzat-095370217/" target="_blank"><img src="https://img.shields.io/badge/-Naroz%20Ezzat-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-### 🛠 &nbsp;Tech Stack
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Nextj.s-05122A?style=flat&logo=next.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+I'm a front-end developer at **Sakneen** and an **ITI student**, exploring new
+technologies and putting what I learn into practice.
 
+I enjoy talking about **JavaScript, React, Next.js, Node.js**, and the details
+that make web development interesting. Away from the keyboard, a good cup of
+coffee is always part of my day.
 
+## My toolkit
 
+| Focus | Technologies |
+| :--- | :--- |
+| Front end | `JavaScript` · `React` · `Next.js` |
+| Styling | `HTML5` · `CSS3` · `Sass` · `Bootstrap` |
+| Back end & data | `Node.js` · `MongoDB` |
+| Everyday tools | `Git` · `GitHub` · `Visual Studio Code` |
 
+## Explore my work
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=narozezzat&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
-<a href="https://komarev.com/ghpvc/?username=narozezzat&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=narozezzat&style=for-the-badge">
-</a>
+**[Visit my portfolio](https://naroz-ezzat.vercel.app/)**  
+Take a look at the projects I've worked on.
+
+**[Explore my repositories](https://github.com/narozezzat?tab=repositories)**  
+Browse the code and see what I've been building.
+
+## Let's connect
+
+Have a question about my work or want to talk web development?
+**[Find me on LinkedIn](https://www.linkedin.com/in/naroz-ezzat-095370217/).**
+
+---
+
+<p align="center"><sub>Thanks for stopping by. There's always something new to learn.</sub></p>

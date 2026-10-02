@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Naroz Ezzat — Front-end developer</title>
+  <desc id="desc">A blue profile banner with a browser illustration and a small cup of coffee.</desc>
+  <rect width="1200" height="360" rx="20" fill="#102D50"/>
+  <path d="M760 0H1200V360H960Z" fill="#163D66"/>
+  <circle cx="1180" cy="20" r="150" fill="none" stroke="#285783" stroke-width="2"/>
+  <circle cx="1180" cy="20" r="200" fill="none" stroke="#285783" stroke-width="2"/>
+  <rect x="64" y="68" width="48" height="5" rx="2.5" fill="#83C9F4"/>
+  <text x="64" y="156" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="66" font-weight="700" letter-spacing="-2" fill="#FFFFFF">Naroz Ezzat</text>
+  <text x="67" y="210" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="30" fill="#B8DDF5">Front-end developer</text>
+  <text x="67" y="287" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Arial, sans-serif" font-size="21" fill="#D5E6F3">Curiosity. Code. Coffee.</text>
+  <g transform="translate(803 76)">
+    <rect width="286" height="194" rx="12" fill="#0D2440" stroke="#6085A7" stroke-width="2"/>
+    <path d="M0 39H286" stroke="#6085A7" stroke-width="2"/>
+    <circle cx="21" cy="20" r="4" fill="#83C9F4"/>
+    <circle cx="37" cy="20" r="4" fill="#6085A7"/>
+    <circle cx="53" cy="20" r="4" fill="#6085A7"/>
+    <path d="M91 85L61 114L91 143M194 85L224 114L194 143M157 76L130 153" fill="none" stroke="#B8DDF5" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M102 219H185" stroke="#6085A7" stroke-width="3" stroke-linecap="round"/>
+    <path d="M143 194V219" stroke="#6085A7" stroke-width="3"/>
+  </g>
+  <g transform="translate(1061 245)">
+    <path d="M42 10H51C71 10 71 35 51 35H42" fill="none" stroke="#83C9F4" stroke-width="5"/>
+    <path d="M0 5H45V36C45 57 0 57 0 36Z" fill="#83C9F4"/>
+    <path d="M-6 57H51" stroke="#B8DDF5" stroke-width="4" stroke-linecap="round"/>
+    <path d="M13 -7C4 -18 23 -22 14 -34M31 -7C22 -18 41 -22 32 -34" fill="none" stroke="#B8DDF5" stroke-width="3" stroke-linecap="round"/>
+  </g>
+</svg>
