@@ -1,13 +1,18 @@
 <p align="center">
-  <img src="./assets/profile-header-3d.svg" width="1200" alt="Naroz Ezzat — Front-end developer. Animated code window with floating React, JavaScript and Next.js icons." />
+  <picture>
+    <source media="(max-width: 640px)" srcset="./assets/header-mobile-v2.svg" />
+    <img src="./assets/header-desktop-v2.svg" width="1200" alt="Naroz Ezzat — Front-end developer. Building for the web, always learning. Animated code window with floating React, JavaScript and Next.js icons." />
+  </picture>
 </p>
 
 <p align="center">
   <a href="https://my-portfolio-lime-2.vercel.app/en"><img src="./assets/portfolio.svg" width="180" alt="Explore my portfolio" /></a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/naroz-ezzat-095370217/"><img src="./assets/linkedin.svg" width="140" alt="Connect on LinkedIn" /></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/naroz-ezzat-095370217/"><img src="./assets/linkedin.svg" width="180" alt="Connect on LinkedIn" /></a>
-  &nbsp;
-  <a href="https://github.com/narozezzat?tab=repositories"><img src="./assets/repositories.svg" width="180" alt="Browse my repositories" /></a>
+  <a href="https://github.com/narozezzat?tab=repositories"><img src="./assets/repositories.svg" width="140" alt="Browse my repositories" /></a>
 </p>
 
 ## 👋 A little about me
@@ -23,7 +28,10 @@ to build for the web.
 ## 🧩 Technologies I work with
 
 <p align="center">
-  <img src="./assets/tech-stack.svg" width="1200" alt="Animated technology icons: JavaScript, React, Next.js, HTML5, CSS3, Sass, Node.js, MongoDB, Bootstrap, Git, GitHub, and Visual Studio Code." />
+  <picture>
+    <source media="(max-width: 640px)" srcset="./assets/toolkit-mobile-v2.svg" />
+    <img src="./assets/tech-stack.svg" width="1200" alt="Technologies: JavaScript, React, Next.js, HTML5, CSS3, Sass, Node.js, MongoDB, Bootstrap, Git, GitHub, and Visual Studio Code." />
+  </picture>
 </p>
 
 ## 🚀 Explore my work
